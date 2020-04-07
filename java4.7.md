@@ -1,5 +1,9 @@
 [TOC]
 
+[ARouter](./Android/framework/ARouter.md)
+
+1.1[== 与 equals的区别](java4.7.md)
+
 # 1.java基础知识
 
 ###   1.1. ==  与 equals
