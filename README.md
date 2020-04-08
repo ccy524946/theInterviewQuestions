@@ -18,3 +18,16 @@
 
 ​	[1.9java的四个基本特性以及多态的理解？](java基础/1.9java的四个基本特性以及多态的理解.md)
 
+​	[1.10重载和重写的区别？](java基础/1.10重载和重写的区别.md)
+
+​	[1.11java中是否可以覆盖一个private或者static的方法？](java基础/1.11java中是否可以覆盖一个private或者static的方法.md)
+
+​	[1.12面向对象的六个基本原则？](java基础/1.12面向对象的六个基本原则.md)
+
+​	[1.13java创建对象的四种方式？](java基础/1.13java创建对象的四种方式.md)
+
+​	[1.14String和StringBuffer和StringBuilder的区别？](java基础/1.14String和StringBuffer和StringBuilder的区别.md)
+
+​	[1.15String不可变好处？](java基础/1.15String不可变好处.md)
+
+​	[1.16StringPool？](java基础/1.16StringPool.md)
