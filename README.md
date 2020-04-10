@@ -76,10 +76,24 @@
 
 ​	[1.38Math.round(11.5)等於多少Math.round(-11.5)等於多少？](java基础/1.38Math.round(11.5)等於多少Math.round(-11.5)等於多少.md)
 
-​	[1.39char 型变量中能不能存贮一个中文汉字为什么？](java基础/1.39char 型变量中能不能存贮一个中文汉字为什么.md)
+​	[1.39char型变量中能不能存贮一个中文汉字为什么？](java基础/1.39char型变量中能不能存贮一个中文汉字为什么.md)
 
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
 
 ​	[2.2.字符串常量池](java中的String/2.2.字符串常量池.md)
+
+​	[2.3String类初始化后是不可变的(immutable)](java中的String/2.3String类初始化后是不可变的(immutable).md)
+
+​	[2.4引用变量与对象](java中的String/2.4引用变量与对象.md)
+
+​	[2.5创建字符的方式](java中的String/2.5创建字符的方式.md)
+
+​	[2.6使用String不一定创建对象](java中的String/2.6使用String不一定创建对象.md)
+
+​	[2.7使用newString一定创建对象](java中的String/2.7使用newString一定创建对象.md)
+
+​	[2.8关于String.intern()](java中的String/2.8关于String.intern().md)
+
+​	
