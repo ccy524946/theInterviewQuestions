@@ -53,3 +53,11 @@
 ​	[2.9字符串的比较](java中的String/2.9字符串的比较.md)
 
 ​	[2.10String相关的+](java中的String/2.10String相关的+.md)
+
+​	[2.11String的不可变性导致字符串变量使用+号的代价](java中的String/2.11String的不可变性导致字符串变量使用+号的代价.md)
+
+​	[2.12String中的final用法和理解](java中的String/2.12String中的final用法和理解.md)
+
+​	[2.13字符串池的优缺点](java中的String/2.13字符串池的优缺点.md)
+
+​	[2.14综合案例.md](java中的String/2.14综合案例.md)
