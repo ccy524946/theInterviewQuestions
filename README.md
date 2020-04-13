@@ -32,6 +32,10 @@
 
 ​	[1.16StringPool？](java基础/1.16StringPool.md)
 
+​	[1.17newString(abc)？](java基础/1.17newString(abc).md)
+
+​	[1.18string有重写Object的hashcode和toString吗如果重写equals不重写hashcode会出现什么问题？](java基础/1.18string有重写Object的hashcode和toString吗如果重写equals不重写hashcode会出现什么问题.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
