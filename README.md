@@ -36,6 +36,12 @@
 
 ​	[1.18string有重写Object的hashcode和toString吗如果重写equals不重写hashcode会出现什么问题？](java基础/1.18string有重写Object的hashcode和toString吗如果重写equals不重写hashcode会出现什么问题.md)
 
+​	[1.19开发与运行Java程序需经过哪些过程？](java基础/1.19开发与运行Java程序需经过哪些过程.md)
+
+​	[1.20Java如何进行文件读取？](java基础/1.20Java如何进行文件读取.md)
+
+​	[1.21反射.md？](java基础/1.21反射.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
