@@ -42,6 +42,10 @@
 
 ​	[1.21反射.md？](java基础/1.21反射.md)
 
+​	[1.22JDK和JRE的区别？](java基础/1.22JDK和JRE的区别.md)
+
+​	[1.23static和final？](java基础/1.23static和final.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
