@@ -46,6 +46,10 @@
 
 ​	[1.23static和final？](java基础/1.23static和final.md)
 
+​	[1.24session和cookie区别？](java基础/1.24session和cookie区别.md)
+
+​	[1.25finalize和finalization和finally？](java基础/1.25finalize和finalization和finally.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
