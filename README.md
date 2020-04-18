@@ -50,6 +50,10 @@
 
 ​	[1.25finalize和finalization和finally？](java基础/1.25finalize和finalization和finally.md)
 
+​	[1.26访问控制修饰符？](java基础/1.26访问控制修饰符.md)
+
+​	[1.27Object有哪些方法？](java基础/1.27Object有哪些方法.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
