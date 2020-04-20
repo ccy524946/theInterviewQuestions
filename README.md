@@ -54,6 +54,12 @@
 
 ​	[1.27Object有哪些方法？](java基础/1.27Object有哪些方法.md)
 
+​	[1.28java语言有哪些特点？](java基础/1.28java语言有哪些特点.md)
+
+​	[1.29异常？](java基础/1.29异常.md)
+
+​	[1.29异常？](java基础/1.30Runtime.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
