@@ -58,7 +58,9 @@
 
 ​	[1.29异常？](java基础/1.29异常.md)
 
-​	[1.29异常？](java基础/1.30Runtime.md)
+​	[1.30Runtime？](java基础/1.30Runtime.md)
+
+​	[1.31接口和抽象类？](java基础/1.31接口和抽象类.md)
 
 ### 二、java中的String
 
