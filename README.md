@@ -64,6 +64,10 @@
 
 ​	[1.32注解？](java基础/1.32注解.md)
 
+​	[1.33泛型？](java基础/1.33泛型.md)
+
+​	[1.34泛型与T的区别？](java基础/1.34泛型与T的区别.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
