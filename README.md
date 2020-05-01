@@ -74,6 +74,10 @@
 
 ​	[1.37什么是字符集和编码？](java基础/1.37什么是字符集和编码.md)
 
+​	[1.38Math.round(11.5)等於多少Math.round(-11.5)等於多少？](java基础/1.38Math.round(11.5)等於多少Math.round(-11.5)等於多少.md)
+
+​	[1.39char型变量中能不能存贮一个中文汉字为什么？](java基础/1.39char型变量中能不能存贮一个中文汉字为什么.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
