@@ -78,6 +78,10 @@
 
 ​	[1.39char型变量中能不能存贮一个中文汉字为什么？](java基础/1.39char型变量中能不能存贮一个中文汉字为什么.md)
 
+​	[1.40面向对象和面向过程的区别？](java基础/1.40面向对象和面向过程的区别.md)
+
+​	[1.41jvm,jdk,jre？](java基础/1.41jvm,jdk,jre.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
