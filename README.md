@@ -82,6 +82,12 @@
 
 ​	[1.41jvm,jdk,jre？](java基础/1.41jvm,jdk,jre.md)
 
+​	[1.42OracleJDK和OpenJDK的对比？](java基础/1.42OracleJDK和OpenJDK的对比.md)
+
+​	[1.43java和C++的区别？](java基础/1.43java和C++的区别.md)
+
+​	[1.44什么是java程序的主类应用程序和小程序的主类有何不同？](java基础/1.44什么是java程序的主类应用程序和小程序的主类有何不同.md)
+
 ### 二、java中的String
 
 ​	[2.1String类](java中的String/2.1String类.md)
